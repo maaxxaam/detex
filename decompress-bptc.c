@@ -20,6 +20,8 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 #include "bits.h"
 #include "bptc-tables.h"
 
+#include <string.h>
+
 // BPTC mode layout:
 //
 // Number of subsets = { 3, 2, 3, 2, 1, 1, 1, 2 };
